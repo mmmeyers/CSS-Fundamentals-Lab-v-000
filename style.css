@@ -36,4 +36,6 @@ a {
 
 div {
   float: left;
+  background-color: blue;
+  width: 25%;
 }
